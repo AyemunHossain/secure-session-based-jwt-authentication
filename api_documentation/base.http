@@ -1,0 +1,13 @@
+###
+{{base_url}}/
+Content-Type: application/json
+
+###
+{{base_url}}/api/setCSRFToken
+Content-Type: application/json
+
+
+###
+POST {{base_url}}/api/checkCSRFToken
+Content-Type: application/json
+

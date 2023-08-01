@@ -1,0 +1,18 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "version": "0.2.0",
+    "rest-client.environmentVariables": {
+      "local": {
+        "version": "v1",
+        "base_url": "http://localhost:3003",
+        "access_token": "Bearer eyJhbGciOiJQUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NDZiNWZjNWIyYWUyNjg1N2I0MjE5ZWYiLCJpYXQiOjE2ODcxNTM5NTM0NjgsImNyZWRlbnRpYWwiOiI1ZTNsajJnejMwYzFreSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJ0ZXN0QGdtYWlsLmNvbSIsImV4cCI6MTY4NzE1NjU0NTQ2OH0.Ew_Ore_JGfGM46YMcu1AdMC5lq8pgfR885fg5UiMkPS7PceaRcDAslSv-guGo5csLLjauoufFOrutvPncyrdOBsJEnZZQP5MrOlyt9WZYLaRe70r4rg2RM9TKb8X0AkG5aOZ1Ow9vj30or8axPZbu3210vZ-9DjXpBizMuFUbiYlQ62FSUTYfKcQE0Fwu45kG2-JYAdp1ob1SogOpPlPYuDvsxUgwpgxsfciUoyczpzjuYJdmPjnEfb-vZCzpf9GxQXHihbielIMnvXJAyHtAV0QLWu67lUFlzsoUWUwUpz4nny1Ui4TBxZcKs6O670mVrnQ5Ign-uk80AUlJ9MUQ2s7JCfuNXk6790Y-flltMZ75ZiTf1PtMLa4MLDK0Nd9jq8jIRvpaJjkGRf6dkEGeRiYNX66RCKcL93Dd4gPw5EAOc7wgUfm-R9icwD_5bO9qwU7o9XZG4MMISAjtYs_54x7FruPWgS-fj3vcCzYAjjQDhtHuXgCC8GLwa-RI_5utsaHMP01sQVvcfdtCqux5-3E6xQHaXGIda36nXQPz4PXVKLh1ziTsDM4Xb3s8DM7zl9W1UbODsJ07DLgipr2ZkWGNGvxOqSbZKUlly46-13dglPktIfTubv2jL5PjoDZmMB2J36vgiAeczqB0pqfBBI3Ze4qDzGd7remPNBD36g"
+
+      },
+      "local_https": {
+        "version": "v1",
+        "base_url": "https://localhost:3003",
+        "access_token": "Bearer eyJhbGciOiJQUzUxMiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NDZiNWZjNWIyYWUyNjg1N2I0MjE5ZWYiLCJpYXQiOjE2ODcxNTM5NTM0NjgsImNyZWRlbnRpYWwiOiI1ZTNsajJnejMwYzFreSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJ0ZXN0QGdtYWlsLmNvbSIsImV4cCI6MTY4NzE1NjU0NTQ2OH0.Ew_Ore_JGfGM46YMcu1AdMC5lq8pgfR885fg5UiMkPS7PceaRcDAslSv-guGo5csLLjauoufFOrutvPncyrdOBsJEnZZQP5MrOlyt9WZYLaRe70r4rg2RM9TKb8X0AkG5aOZ1Ow9vj30or8axPZbu3210vZ-9DjXpBizMuFUbiYlQ62FSUTYfKcQE0Fwu45kG2-JYAdp1ob1SogOpPlPYuDvsxUgwpgxsfciUoyczpzjuYJdmPjnEfb-vZCzpf9GxQXHihbielIMnvXJAyHtAV0QLWu67lUFlzsoUWUwUpz4nny1Ui4TBxZcKs6O670mVrnQ5Ign-uk80AUlJ9MUQ2s7JCfuNXk6790Y-flltMZ75ZiTf1PtMLa4MLDK0Nd9jq8jIRvpaJjkGRf6dkEGeRiYNX66RCKcL93Dd4gPw5EAOc7wgUfm-R9icwD_5bO9qwU7o9XZG4MMISAjtYs_54x7FruPWgS-fj3vcCzYAjjQDhtHuXgCC8GLwa-RI_5utsaHMP01sQVvcfdtCqux5-3E6xQHaXGIda36nXQPz4PXVKLh1ziTsDM4Xb3s8DM7zl9W1UbODsJ07DLgipr2ZkWGNGvxOqSbZKUlly46-13dglPktIfTubv2jL5PjoDZmMB2J36vgiAeczqB0pqfBBI3Ze4qDzGd7remPNBD36g"
+      },
+    }
+}
